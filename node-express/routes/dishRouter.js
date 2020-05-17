@@ -12,7 +12,7 @@ dishRouter.route('/')
     next();
 })
 .get((req,res,next) => {
-    res.end('Will send all the dishes to you!');
+    res.end('Will send all the dishes to you using router!');
 })
 .post((req, res, next) => {
     res.end('Will add the dish: ' + req.body.name + ' with details: ' + req.body.description);
@@ -26,3 +26,7 @@ dishRouter.route('/')
 });
 
 module.exports = dishRouter;
+
+
+
+
