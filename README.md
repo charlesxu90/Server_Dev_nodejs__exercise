@@ -10,11 +10,24 @@ My exercise for coursera course [Server-side Development with NodeJS, Express an
 
 Note: In some cases, you need to add other dependencies.
 
-## Contents
-### Week 1 Exercise: 
+## Commits
+### node-examples: 
+- Understanding Node Modules
+- Node Callbacks and Error Handling
 
-### Week 2 Exercise: 
+### node-http: 
+- Node and the HTTP Module
 
-### Week 3 Exercise: 
+### node-express: 
+- Introduction to Express
+- Express Router
+- Assignment 1: Node Modules, Express and REST API
 
-### Week 4 Exercise: 
+### conFusionServer: 
+- Express Generator
+- REST API with Express, MongoDB and Mongoose Part 1, 2 & 3
+- Assignment 2: MongoDB
+
+### node-mongo:
+- Node and MongoDB Part 1
+- Node and MongoDB Part 2
