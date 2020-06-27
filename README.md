@@ -27,6 +27,8 @@ Note: In some cases, you need to add other dependencies.
 - Express Generator
 - REST API with Express, MongoDB and Mongoose Part 1, 2 & 3
 - Assignment 2: MongoDB
+- Auth & Cookies
+- Express Sessions Part 1 & 2
 
 ### node-mongo:
 - Node and MongoDB Part 1
